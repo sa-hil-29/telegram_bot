@@ -48,7 +48,7 @@ async def about_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "• Python\n"
         "• Telegram Bot API\n"
         "• Google Gemini AI\n\n"
-        "Made for a school project 🎓",
+        "Built by @s4saifi",
         parse_mode="Markdown",
     )
 
